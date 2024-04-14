@@ -12,12 +12,14 @@ Tools Used:
  
  Functions:
 1- Register function: Test the ability of the user to create an account on the web application
+
  Included test cases:
 -Register with valid data and logout
 -Register witout email
 -Register without password
 
-2-Login Function
+2-Login Function:Test the ability of the user to login with account that he created
+
 Included test cases:
 -Login with valid data
 -Login witout password
