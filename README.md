@@ -2,7 +2,7 @@
 
 Overview:
 This repository contains automation script for the registration and login functionalities of NopCommerce web application.
-The tests are written using Selenium webdriver and java programming language.
+The tests are written using Selenium webdriver and java.
 
 Tools Used:
  1-Maven project with Selenium WebDriver 
