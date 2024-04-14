@@ -17,6 +17,7 @@ Tools Used:
 -Register with valid data and logout
 -Register witout email
 -Register without password
+-Register without last name
 
 2-Login Function:Test the ability of the user to login with account that he created
 
