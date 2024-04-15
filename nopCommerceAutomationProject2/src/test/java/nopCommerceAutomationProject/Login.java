@@ -77,7 +77,7 @@ public class Login extends TestBase{
   	  public void afterSuite() throws IOException
  	  {
 
-         //driver.quit();
+         driver.quit();
 
  	  }
 
