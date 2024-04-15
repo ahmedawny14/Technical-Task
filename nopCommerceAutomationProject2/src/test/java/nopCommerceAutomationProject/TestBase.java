@@ -27,7 +27,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 		}
 
 		public static Object[][] getDataFromSheet(String sheetName, int startRow, int noOfTestCases) throws Exception {
-			File file = new File( "src\test\resources\TestData\Data Sheet.xlsx");
+			File file = new File( "src\test\\resources\\TestData\\Data Sheet.xlsx");
 			FileInputStream fileInputStream = new FileInputStream(file);
 			XSSFWorkbook workbook = new XSSFWorkbook(fileInputStream);
 			Sheet sheet = workbook.getSheet(sheetName);
